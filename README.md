@@ -1,19 +1,19 @@
-<h1 align="center">👋 Ciao, sono Gabry</h1>
-<h3 align="center">Developer in crescita • Anime & Manga Fan </h3>
+<h1 align="center">👋 Hi, I'm Gabry</h1>
+<h3 align="center">Growing Developer • Anime & Manga Fan</h3>
 
 
 ---
 
-## 🚀 Chi sono
-- 👨‍💻 Mi chiamo **Gabry**
-- 🎮 Appassionato di **programmazione e tecnologia**
-- 🐧 Uso principalmente **Linux**
-- 🎌 Fan di **anime e manga**
-- 🌱 Sempre in crescita, un commit alla volta
+## 🚀 Who I Am
+- 👨‍💻 My name is **Gabry**
+- 🎮 Passionate about **programming and technology**
+- 🐧 Mainly use **Linux**
+- 🎌 **Anime and manga** fan
+- 🌱 Always growing, one commit at a time
 
 ---
 
-## 🛠️ Linguaggi & Tecnologie
+## 🛠️ Languages & Technologies
 <p align="center">
   <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
@@ -25,16 +25,15 @@
 
 ---
 
-## 💻 Ambiente
+## 💻 Environment
 <p align="center">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 </p>
 
 ---
 
-
 ## 🎌 Anime & Manga
-> *“Nah, I'd win.”*   
+> *“Nah, I'd win.”*  
 > *Shonen mindset, developer discipline.*
 
 ---
